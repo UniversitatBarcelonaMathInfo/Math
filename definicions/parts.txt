@@ -1,0 +1,21 @@
+Meta
+Dependència:
+- conjunt
+- funció
+
+S conjunt
+
+=====
+P (math: \mathcal{P})
+- Parts de S
+- Conjunt de les parts
+- Potencia de S
+- Conjunt potencia de S
+
+definició
+
+sigui
+E un conjunt
+
+compleix
+∀E ⊆ S, E ∈ P(S)

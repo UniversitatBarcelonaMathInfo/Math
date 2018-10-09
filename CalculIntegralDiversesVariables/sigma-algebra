@@ -1,0 +1,20 @@
+Meta
+Dependència:
+- conjunt
+- parts
+
+M (math: \mathcal{M}) conjunt
+P (math: \mathcal{P}) part
+
+
+σ-algebra
+=========
+
+definició
+Una σ-algebra de χ
+
+És
+M ⊆ P(χ)
+(ⅰ) χ ∈ M
+(ⅱ) E ∈ M ⇒ χ\E ∈ M
+(ⅲ) {E_j}_j≥1 successió de M ⇒ ∪^∞ E_j ∈ M
